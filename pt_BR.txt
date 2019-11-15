@@ -1,0 +1,523 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: WinDynamicDesktop\n"
+"Language: pt-br\n"
+
+#: src\AboutDialog.cs:79
+msgid "Thanks to:"
+msgstr "Agradecimentos:"
+
+#: src\AboutDialog.cs:81
+msgid "Apple for the Mojave wallpapers"
+msgstr "Apple pelos papéis de parede Mojave"
+
+#: src\AboutDialog.cs:82
+msgid "Contributors and translators on GitHub"
+msgstr "Colaboradores e tradutores no GitHub"
+
+#: src\AboutDialog.cs:83
+msgid "LocationIQ for their free geocoding API"
+msgstr "LocationIQ por sua API gratuita de geocodificação"
+
+#: src\AboutDialog.cs:84
+msgid "Roundicons from flaticon.com for the icon (licensed by CC 3.0 BY)"
+msgstr "Roundicons - de flaticon.com - pelo ícone (licenciado por CC 3.0 BY)"
+
+#: src\AboutDialog.Designer.cs:70
+msgid "Copyright © 2019 Timothy Johnson"
+msgstr "Direitos autorais© 2019 Timothy Johnson"
+
+#: src\AboutDialog.Designer.cs:80
+msgid "Port of macOS Mojave Dynamic Desktop feature to Windows 10"
+msgstr "Recurso Mojave Dynamic Desktop portado do macOS para Windows 10"
+
+#: src\AboutDialog.Designer.cs:103 src\ThemeDialog.Designer.cs:159
+msgid "Close"
+msgstr "Fechar"
+
+#: src\AboutDialog.Designer.cs:115
+msgid "Credits"
+msgstr "Créditos"
+
+#: src\AboutDialog.Designer.cs:128
+msgid "Donate"
+msgstr "Doar"
+
+#: src\AboutDialog.Designer.cs:165
+msgid "About WinDynamicDesktop"
+msgstr "Sobre o WinDynamicDesktop"
+
+#: src\AppContext.cs:68
+msgid "Another instance of WinDynamicDesktop is already running. You can access it by clicking on the icon in the system tray."
+msgstr "Outra instância do WinDynamicDesktop já está em execução. Você pode acessá-la clicando no ícone da bandeja do sistema."
+
+#: src\AppContext.cs:70 src\LocationDialog.cs:107 src\LocationIQ.cs:75 src\ThemeLoader.cs:65 src\ThemeLoader.cs:71 src\UpdateChecker.cs:107
+msgid "Error"
+msgstr "Erro"
+
+#: src\BrightnessDialog.Designer.cs:90 src\ThemeDialog.Designer.cs:147
+msgid "Apply"
+msgstr "Aplicar"
+
+#: src\BrightnessDialog.Designer.cs:136
+msgid "Auto Brightness Options"
+msgstr "Opções de Brilho Automático"
+
+#: src\BrightnessDialog.Designer.cs:159
+msgid "Show Notification Toast"
+msgstr "Destacar Notificação"
+
+#: src\BrightnessDialog.Designer.cs:169
+msgid "Set Custom Brightness"
+msgstr "Brilho Personalizado"
+
+#: src\BrightnessDialog.Designer.cs:187
+msgid "Enable (Auto)"
+msgstr "Ativar (Auto)"
+
+#: src\BrightnessDialog.Designer.cs:200
+msgid "Disable"
+msgstr "Desativar"
+
+#: src\BrightnessDialog.Designer.cs:232
+msgid "All night"
+msgstr "Noite inteira"
+
+#: src\BrightnessDialog.Designer.cs:241
+msgid "All day"
+msgstr "Dia inteiro"
+
+#: src\BrightnessDialog.Designer.cs:250
+msgid "Night"
+msgstr "Noite"
+
+#: src\BrightnessDialog.Designer.cs:259
+msgid "Sunset"
+msgstr "Pôr do Sol"
+
+#: src\BrightnessDialog.Designer.cs:268
+msgid "Day"
+msgstr "Dia"
+
+#: src\BrightnessDialog.Designer.cs:277
+msgid "Sunrise"
+msgstr "Nascer do Sol"
+
+#: src\BrightnessDialog.Designer.cs:287
+msgid "100%"
+msgstr "100%"
+
+#: src\BrightnessDialog.Designer.cs:296
+msgid "Current Display Brightness:"
+msgstr "Brilho Atual"
+
+#: src\BrightnessDialog.Designer.cs:319 src\DownloadDialog.Designer.cs:92 src\LanguageDialog.Designer.cs:72 src\LocationDialog.Designer.cs:73
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: src\BrightnessDialog.Designer.cs:332 src\LanguageDialog.Designer.cs:61 src\LocationDialog.Designer.cs:62
+msgid "OK"
+msgstr "OK"
+
+#: src\BrightnessDialog.Designer.cs:351 src\MainMenu.cs:83
+msgid "Set Auto Brightness"
+msgstr "Ativar Brilho Automático"
+
+#: src\DownloadDialog.cs:46
+msgid "Downloading images for '{0}'..."
+msgstr "Baixando imagens para '{0}'..."
+
+#: src\DownloadDialog.cs:84
+msgid "{0} KB/s"
+msgstr "{0} KB/s"
+
+#: src\DownloadDialog.cs:89
+msgid "{0} MB/s"
+msgstr "{0} MB/s"
+
+#: src\DownloadDialog.cs:93
+msgid "{0} MB of {1} MB"
+msgstr "{0} MB de {1} MB"
+
+#: src\DownloadDialog.cs:121
+msgid "Failed to download images for the '{0}' theme. Do you want to try again?"
+msgstr "Falha ao baixar imagens para o tema '{0}'. Tentar novamente?"
+
+#: src\DownloadDialog.Designer.cs:49
+msgid "Downloading images, please wait..."
+msgstr "Baixando imagens, por favor aguarde..."
+
+#: src\DownloadDialog.Designer.cs:70
+msgid "0 MB of 0 MB"
+msgstr "0 MB de 0 MB"
+
+#: src\DownloadDialog.Designer.cs:79
+msgid "0 MB/s"
+msgstr "0 MB/s"
+
+#: src\ImportDialog.cs:62
+msgid "Importing theme from {0}..."
+msgstr "Importando tema de {0}..."
+
+#: src\ImportDialog.Designer.cs:45
+msgid "Importing themes, please wait..."
+msgstr "Importando temas, por favor aguarde..."
+
+#: src\LanguageDialog.cs:59
+msgid "WinDynamicDesktop needs to restart for the language to change. Do you want to restart the app now?"
+msgstr "O WinDynamicDesktop precisa ser reiniciado para alteração do idioma. Deseja reiniciar o aplicativo agora?"
+
+#: src\LanguageDialog.cs:61 src\LocationDialog.cs:126 src\LocationIQ.cs:45 src\ThemeDialog.cs:68 src\ThemeDialog.cs:471 src\ThemeDialog.cs:526 src\ThemeLoader.cs:88
+msgid "Question"
+msgstr "Pergunta"
+
+#: src\LanguageDialog.Designer.cs:44
+msgid "Select the language to use in WinDynamicDesktop:"
+msgstr "Selecione o idioma do WinDynamicDesktop:"
+
+#: src\LanguageDialog.Designer.cs:103
+msgid "Select Language"
+msgstr "Selecionar idioma"
+
+#: src\LaunchSequence.cs:36
+msgid "Welcome! Please enter your location so the app can determine sunrise and sunset times."
+msgstr "Bem vindo! Digite sua localização para que o aplicativo possa determinar os horários de nascer e pôr do sol."
+
+#: src\LaunchSequence.cs:46
+msgid "The app is still running in the background. You can access it at any time by clicking on the icon in the system tray."
+msgstr "O aplicativo ainda está sendo executado em segundo plano. Você pode acessá-lo a qualquer momento clicando no ícone da bandeja do sistema."
+
+#: src\LocationDialog.cs:106
+msgid "Failed to get location from Windows location service."
+msgstr "Falha ao obter a localização do serviço de localização do Windows."
+
+#: src\LocationDialog.cs:123
+msgid "WinDynamicDesktop cannot display wallpapers until you have entered a valid location, so that it can calculate sunrise and sunset times for your location. Are you sure you want to cancel and quit the program?"
+msgstr "O WinDynamicDesktop não pode exibir papéis de parede até que você tenha inserido um local válido, para que possa calcular os horários de nascer e pôr do sol para o seu local. Tem certeza de que deseja cancelar e sair do programa?"
+
+#: src\LocationDialog.Designer.cs:45
+msgid "Enter your location:"
+msgstr "Digite sua localização:"
+
+#: src\LocationDialog.Designer.cs:84
+msgid "Use Windows location service"
+msgstr "Usar serviço de localização do Windows"
+
+#: src\LocationDialog.Designer.cs:105
+msgid "Change Location"
+msgstr "Mudar localização"
+
+#: src\LocationIQ.cs:43
+msgid "Is this location correct?\n"
+"\n"
+"{0}\n"
+"{1}"
+msgstr "Esta localização está correta?\n"
+"\n"
+"{0}\n"
+"{1}"
+
+#: src\LocationIQ.cs:72
+msgid "The location you entered was invalid, or you are not connected to the Internet. Check your Internet connection and try a different location. You can use a complete address or just the name of your city/region."
+msgstr "O local digitado é inválido ou você não está conectado à Internet. Verifique sua conexão com a Internet e tente um local diferente. Você pode usar um endereço completo ou apenas o nome da sua cidade / região."
+
+#: src\MainMenu.cs:38
+msgid "&Select Theme..."
+msgstr "&Selecionar Tema..."
+
+#: src\MainMenu.cs:45
+msgid "&Change Location..."
+msgstr "&Mudar Localização..."
+
+#: src\MainMenu.cs:49
+msgid "&Night Wallpaper Only Mode"
+msgstr "&Somente Modo Papel de Parede Noturno"
+
+#: src\MainMenu.cs:51
+msgid "&Start on Boot"
+msgstr "&Ativar na Inicialização"
+
+#: src\MainMenu.cs:53
+msgid "More &Options"
+msgstr "Mais &Opções"
+
+#: src\MainMenu.cs:58
+msgid "&Refresh Wallpaper"
+msgstr "&Atualizar Papel de Parede"
+
+#: src\MainMenu.cs:64
+msgid "&Check for Updates"
+msgstr "&Verificar Atualizações"
+
+#: src\MainMenu.cs:65
+msgid "&About"
+msgstr "&Sobre"
+
+#: src\MainMenu.cs:67
+msgid "E&xit"
+msgstr "S&aída"
+
+#: src\MainMenu.cs:77
+msgid "Select &Language..."
+msgstr "Selecionar &Idioma"
+
+#: src\MainMenu.cs:78
+msgid "Edit Configuration File"
+msgstr "Editar Arquivo de Configuração"
+
+#: src\SunriseSunset.cs:88
+msgid "Sunrise/Sunset: Up all day"
+msgstr "Nascer / Pôr do Sol: Aceso o dia todo"
+
+#: src\SunriseSunset.cs:91
+msgid "Sunrise/Sunset: Down all day"
+msgstr "Nascer / Pôr do Sol: Apagado o dia todo"
+
+#: src\SunriseSunset.cs:95
+msgid "Sunrise: {0}, Sunset: {1}"
+msgstr "Nascer do sol: {0}, Pôr do sol: {1}"
+
+#: src\SystemThemeChanger.cs:38
+msgid "Change Windows 10 &system theme automatically"
+msgstr "Alterar o tema do &sistema Windows 10 automaticamente"
+
+#: src\SystemThemeChanger.cs:43
+msgid "Change Windows 10 &app theme automatically"
+msgstr "Alterar o tema do &aplicativo Windows 10 automaticamente"
+
+#: src\ThemeDialog.cs:66
+msgid "The following themes are already installed:\n"
+"\t{0}\n"
+"\n"
+"Do you want to overwrite them?"
+msgstr "Os seguintes temas já estão instalados:\n"
+"{0}\n"
+"\n"
+"Deseja substituí-los?"
+
+#: src\ThemeDialog.cs:87 src\ThemeDialog.cs:95 src\ThemeDialog.cs:100
+msgid "Image Credits: {0}"
+msgstr "Créditos da imagem: {0}"
+
+#: src\ThemeDialog.cs:152
+msgid "Image {0} of {1}"
+msgstr "Imagem {0} de {1}"
+
+#: src\ThemeDialog.cs:283
+msgid "None"
+msgstr "Nenhum"
+
+#: src\ThemeDialog.cs:355
+msgid "New theme applied: {0}"
+msgstr "Novo tema aplicado: {0}"
+
+#: src\ThemeDialog.cs:450
+msgid "Remove files"
+msgstr "Remover arquivos"
+
+#: src\ThemeDialog.cs:459
+msgid "Delete"
+msgstr "Excluir"
+
+#: src\ThemeDialog.cs:524
+msgid "WinDynamicDesktop cannot dynamically update your wallpaper until you have selected a theme. Are you sure you want to continue without a theme selected?"
+msgstr "O WinDynamicDesktop não pode atualizar dinamicamente seu papel de parede até que você selecione um tema. Tem certeza de que deseja continuar sem um tema selecionado?"
+
+#: src\ThemeDialog.Designer.cs:69
+msgid "Preview"
+msgstr "Pré-visualização"
+
+#: src\ThemeDialog.Designer.cs:78
+msgid "Theme will be downloaded when you click Apply"
+msgstr "O tema será baixado quando você clicar em Aplicar"
+
+#: src\ThemeDialog.Designer.cs:172
+msgid "Get more themes online"
+msgstr "Obtenha mais temas online"
+
+#: src\ThemeDialog.Designer.cs:182
+msgid "Import from file..."
+msgstr "Importar do arquivo ..."
+
+#: src\ThemeDialog.Designer.cs:251
+msgid "Select Theme"
+msgstr "Selecionar Tema"
+
+#: src\ThemeError.cs:29
+msgid "Could not copy image file {0}"
+msgstr "Não foi possível copiar o arquivo de imagem {0}"
+
+#: src\ThemeError.cs:37
+msgid "Could not download images for '{0}' theme"
+msgstr "Não foi possível baixar imagens para o tema '{0}'"
+
+#: src\ThemeError.cs:45
+msgid "Could not find location {0}"
+msgstr "Não foi possível encontrar o local {0}"
+
+#: src\ThemeError.cs:53
+msgid "Could not read theme JSON file because its format is invalid"
+msgstr "Não foi possível ler o arquivo JSON do tema porque seu formato é inválido"
+
+#: src\ThemeError.cs:61
+msgid "Could not read ZIP file at {0} because its format is invalid"
+msgstr "Não foi possível ler o arquivo ZIP em {0} porque seu formato é inválido"
+
+#: src\ThemeError.cs:70
+msgid "Theme JSON file is missing one or more of these required fields: 'dayImageList', 'imageFilename', 'nightImageList', 'sunriseImageList', 'sunsetImageList'"
+msgstr "Um ou mais destes campos obrigatórios estão faltando no arquivo JSON do tema: 'dayImageList', 'imageFilename', 'nightImageList', 'sunriseImageList', 'sunsetImageList'"
+
+#: src\ThemeError.cs:80
+msgid "No images found in folder {0}"
+msgstr "Nenhuma imagem encontrada na pasta {0}"
+
+#: src\ThemeError.cs:88
+msgid "No images found in ZIP file {0}"
+msgstr "Nenhuma imagem encontrada no arquivo ZIP {0}"
+
+#: src\ThemeError.cs:96
+msgid "Theme JSON file not found"
+msgstr "Arquivo JSON do tema não encontrado"
+
+#: src\ThemeError.cs:104
+msgid "Theme JSON not found in ZIP file {0}"
+msgstr "JSON do tema não encontrado no arquivo ZIP {0}"
+
+#: src\ThemeLoader.cs:64
+msgid "Failed to import '{0}' theme:\n"
+"{1}"
+msgstr "Falha ao importar o tema '{0}':\n"
+"{1}"
+
+#: src\ThemeLoader.cs:69
+msgid "Failed to load '{0}' theme:\n"
+"{1}\n"
+"\n"
+"Do you want to disable this theme to prevent the error from happening again?"
+msgstr "Falha ao carregar o tema '{0}':\n"
+"{1}\n"
+"\n"
+"Deseja desativar este tema para impedir que o erro ocorra novamente?"
+
+#: src\UpdateChecker.cs:57
+msgid "Check for &updates automatically once a week"
+msgstr "Verificar automaticamente se há &atualizações uma vez por semana"
+
+#: src\UpdateChecker.cs:106
+msgid "WinDynamicDesktop could not connect to the Internet to check for updates."
+msgstr "O WinDynamicDesktop não pôde se conectar à Internet para verificar se há atualizações."
+
+#: src\UpdateChecker.cs:111
+msgid "There is a newer version of WinDynamicDesktop available. Do you want to download the update now?\n"
+"\n"
+"Current Version: {0}\n"
+"Latest Version: {1}"
+msgstr "Está disponível uma nova versão do WinDynamicDesktop. Deseja baixá-la agora?\n"
+"\n"
+"Versão atual: {0}\n"
+"Versão mais recente: {1}"
+
+#: src\UpdateChecker.cs:114 src\UpdateChecker.cs:140 src\UpdateChecker.cs:178
+msgid "Update Available"
+msgstr "Atualização Disponível"
+
+#: src\UpdateChecker.cs:123
+msgid "You already have the latest version of WinDynamicDesktop installed."
+msgstr "Você já possui a versão mais recente do WinDynamicDesktop instalada."
+
+#: src\UpdateChecker.cs:124
+msgid "Up To Date"
+msgstr "Atualizado"
+
+#: src\UpdateChecker.cs:139
+msgid "WinDynamicDesktop {0} is available. Click here to download it."
+msgstr "WinDynamicDesktop {0} está disponível. Clique aqui para fazer o download."
+
+#: src\UwpLocation.cs:48
+msgid "WinDynamicDesktop needs location access for this feature. Click OK to open the Windows 10 location settings and grant location access to the app, then select the checkbox again."
+msgstr "O WinDynamicDesktop precisa de acesso à localização para esse recurso. Clique em OK para abrir as configurações do Windows 10 e conceder acesso à localização ao aplicativo e marque a caixa de seleção novamente."
+
+#: src\UwpLocation.cs:51
+msgid "Location Access"
+msgstr "Acesso à Localização"
+
+#: src\WallpaperCompressionChanger.cs:37
+msgid "Disable Windows 10 &JPEG wallpaper compression"
+msgstr "Desativar a compactação de papel de parede &JPEG do Windows 10"
+
+#: src\WallpaperCompressionChanger.cs:71
+msgid "This tweak only affects wallpapers that are JPEG images. In order for this change to take effect, you should restart your computer."
+msgstr "Esse ajuste afeta apenas os papéis de parede que são imagens JPEG. Para que essa alteração entre em vigor, reinicie o computador."
+
+#: src\AboutDialog.cs:81
+msgid "Contributors on GitHub"
+msgstr "Colaboradores no GitHub"
+
+#: src\MainMenu.cs:48
+msgid "Enable &Dark Mode"
+msgstr "Ativar Modo &Escuro"
+
+#: src\ProgressDialog.cs:216
+msgid "Failed to download images for the '{0}' theme"
+msgstr "Falha ao baixar imagens para o tema '{0}'"
+
+#: src\SystemThemeChanger.cs:31
+msgid "&Change Windows 10 theme color"
+msgstr "&Mudar cor do tema do Windows 10"
+
+#: src\ThemeDialog.cs:158
+msgid "Image Credits: Microsoft"
+msgstr "Créditos da imagem: Microsoft"
+
+#: src\ThemeDialog.cs:469
+msgid "Are you sure you want to remove the '{0}' theme?"
+msgstr "Tem certeza de que deseja remover o tema '{0}'?"
+
+#: src\ThemeDialog.Designer.cs:193
+msgid "Remove"
+msgstr "Remover"
+
+#: src\ThemeLoader.cs:31
+msgid "Theme JSON file could not be found."
+msgstr "Não foi possível encontrar o arquivo JSON do tema."
+
+#: src\ThemeLoader.cs:51
+msgid "Theme JSON file could not be read because its format is invalid."
+msgstr "O arquivo JSON do tema não pôde ser lido porque seu formato é inválido."
+
+#: src\ThemeLoader.cs:57
+msgid "Theme JSON file is missing required fields. These include 'dayImageList', 'imageFilename', 'nightImageList', 'sunriseImageList', and 'sunsetImageList'."
+msgstr "Faltam campos obrigatórios do arquivo JSON. Inclusive 'dayImageList', 'imageFilename', 'nightImageList', 'sunriseImageList', e 'sunsetImageList'."
+
+#: src\ThemeLoader.cs:126 src\ThemeLoader.cs:190
+msgid "Failed to find the location {0}"
+msgstr "Falha ao encontrar o local {0}"
+
+#: src\ThemeLoader.cs:147
+msgid "No theme JSON found in the ZIP file {0}"
+msgstr "Nenhum tema JSON encontrado no arquivo ZIP {0}"
+
+#: src\ThemeLoader.cs:159
+msgid "No images found in the ZIP file {0}"
+msgstr "Nenhuma imagem encontrada no arquivo ZIP {0}"
+
+#: src\ThemeLoader.cs:172
+msgid "Failed to read the ZIP file at {0} because its format is invalid."
+msgstr "Falha ao ler o arquivo ZIP em {0} porque seu formato é inválido."
+
+#: src\ThemeLoader.cs:207
+msgid "Failed to copy the image file {0}"
+msgstr "Falha ao copiar o arquivo de imagem {0}"
+
+#: src\ThemeManager.cs:99
+msgid "The '{0}' theme is already installed. Do you want to overwrite it?"
+msgstr "O tema '{0}' já está instalado. Deseja sobrescrevê-lo?"
+
+#: src\ThemeManager.cs:209
+msgid "Failed to find images for the '{0}' theme"
+msgstr "Falha ao encontrar imagens para o tema '{0}'"
+
